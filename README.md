@@ -1,2 +1,2 @@
-# Registration-Form
+# Registration Form
 A basic registration form
